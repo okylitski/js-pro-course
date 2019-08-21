@@ -16,7 +16,5 @@
     "url": "https://github.com/okylitski/js-pro-course/issues"
   },
   "homepage": "https://github.com/okylitski/js-pro-course#readme",
-  "dependencies": {
-    "express": "^4.17.1"
-  }
+  
 }
